@@ -1,0 +1,11 @@
+{
+  "version": "1.3.6",
+  "notes": "تحديث سَانِح إلى الإصدار 1.3.6",
+  "pub_date": "2026-06-10T02:35:08.566Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkxQUE1SQk9aM1JCOXJKL2NIVE9Lc3UzdWduK1lQUnRubWFKS3pRcTlnV05YRFdsYUFIS1lSeUdDYnZQNG5yRThMTW1SWlYyL1YwWGQ3RWdoVHQ2YVQvRXhQMVVYVUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDU4OTA4CWZpbGU6c2FuZWhfMS4zLjZfeDY0LXNldHVwLmV4ZQpmT0JwUVprZUdpTWhpaDk0VG0zdUVQcWlQazcwMUluWTh6V1lqNnhyRnhReXZqeGcrODBaakpUM0RpL2hpWVBRaUZiMktVSzFLZU1sV0M0SDVxbXlBQT09Cg==",
+      "url": "https://raw.githubusercontent.com/elBatel/saneh-releases/main/releases/saneh_1.3.6_x64-setup.exe"
+    }
+  }
+}
